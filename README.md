@@ -4,15 +4,15 @@
 ## Preview
 > Available Role : admin and user
 
-![Image of Login_Page](https://github.com/hanifnoerr/codeigniter_bootstrap_login/blob/master/data/page_login.png)
+![Image of Login_Page](https://github.com/carmonamichael1426/ci3_template/blob/main/data/page_login.png)
 
-> Different view and menu based on role (./app_template)
-![Image of Admin_Page](https://github.com/hanifnoerr/codeigniter_bootstrap_login/blob/master/data/page_admin.png)
-![Image of User_Page](https://github.com/hanifnoerr/codeigniter_bootstrap_login/blob/master/data/page_user.png)
+> Different view and menu based on role (./ci3_template)
+![Image of Admin_Page](https://github.com/carmonamichael1426/ci3_template/blob/main/data/page_admin.png)
+![Image of User_Page](https://github.com/carmonamichael1426/ci3_template/blob/main/data/page_user.png)
 
 ## How to use
 1. rename this as app_template
-2. create a db from data/user.sql [app_template_db]
+2. create a db from data/ci3_template_db.sql [ci3_template_db]
 3. login
    1. admin|admin
    2. user|user
