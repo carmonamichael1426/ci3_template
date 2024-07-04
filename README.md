@@ -12,7 +12,7 @@
 ![Image of User_Page](https://github.com/carmonamichael1426/ci3_template/blob/main/data/page_user.png)
 
 ## How to use
-1. rename this as app_template
+1. rename this as ci3_template
 2. create a db from data/ci3_template_db.sql [ci3_template_db]
 3. login
    1. admin|admin
