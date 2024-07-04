@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # CodeIgniter + Bootstrap Login Template
  Multi Level User Login using CodeIgniter and Bootstrap
  
@@ -24,4 +23,3 @@
 3. Admin Theme - [SB Admin 2](https://startbootstrap.com/themes/sb-admin-2/)
 =======
 # ci3_template
->>>>>>> d5d6c97f93d26b7abe92e3ac08da054e7fc6adfd
